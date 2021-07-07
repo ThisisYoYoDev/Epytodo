@@ -1,0 +1,31 @@
+{
+  "name": "b-web-200-par-2-1-epytodo-yoel.edery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechIT2020/B-WEB-200-PAR-2-1-epytodo-yoel.edery.git"
+  },
+  "author": "Yoel & Arnaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechIT2020/B-WEB-200-PAR-2-1-epytodo-yoel.edery/issues"
+  },
+  "homepage": "https://github.com/EpitechIT2020/B-WEB-200-PAR-2-1-epytodo-yoel.edery#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "customer": "^0.0.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  },
+  "keywords": [],
+  "description": ""
+}
